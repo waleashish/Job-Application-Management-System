@@ -1,2 +1,2 @@
-# Job-Application-Management-System
-The repo contains code base for job application management system (Work in progress).
+# Job-Application-Management-System-UI
+The repo contains frontend code for job application management system (Work in progress).
